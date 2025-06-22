@@ -51,7 +51,7 @@ sudo zypper install sddm
 
 ## 🚀 Installation
 
-### Automatic Installation (Recommended)
+### Automatic Installation
 
 1. **Clone the repository:**
    ```bash
@@ -67,7 +67,7 @@ sudo zypper install sddm
 
 3. **Log out or reboot** to see your new theme!
 
-### Manual Installation
+### Manual Installation (Recommended)
 
 1. **Clone the repository:**
    ```bash
