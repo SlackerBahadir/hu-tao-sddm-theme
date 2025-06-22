@@ -56,7 +56,7 @@ sudo zypper install sddm
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/SlackerBahadir/hu-tao-sddm-theme.git
-   cd hutao-sddm-theme
+   cd hu-tao-sddm-theme
    ```
 
 2. **Run the installation script:**
