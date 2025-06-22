@@ -4,7 +4,7 @@
 # Author: SlackerBahadir
 # Description: Installs the Hu Tao themed SDDM login manager theme
 
-# NOTE: I did not test this script, but I think it works. But if you want to use it, it is your responsibility.
+# Note: I did not test this script, but I believe it works. If you choose to use it, however, it is your responsibility.
 
 set -e
 
