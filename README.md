@@ -2,7 +2,7 @@
 
 A beautiful **SDDM** (Simple Desktop Display Manager) login theme inspired by Hu Tao from Genshin Impact, featuring elegant dark aesthetics with fiery accents and smooth animations.
 
-![Theme Preview](preview.png)
+![Theme Preview](assets/screenshots/login.png)
 
 ## ✨ Features
 
