@@ -132,7 +132,7 @@ sudo cp your-image.jpg /usr/share/sddm/themes/hu-tao-sddm-theme/background.png
 
 2. **Test theme syntax:**
    ```bash
-   sddm-greeter --test-mode --theme /usr/share/sddm/themes/hu-tao-sddm-theme
+   sddm-greeter-qt6 --test-mode --theme /usr/share/sddm/themes/hu-tao-sddm-theme
    ```
 
 ### Display Problems
